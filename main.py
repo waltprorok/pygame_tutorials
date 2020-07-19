@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Pygame Tutorial #5
-# https://www.youtube.com/watch?v=PVY46hUp2EM
+# Pygame Tutorial #7
+# https://www.youtube.com/watch?v=1aGuhUFwvXA
 
 import pygame
 
